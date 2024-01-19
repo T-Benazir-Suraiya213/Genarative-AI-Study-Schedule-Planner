@@ -2,9 +2,8 @@ import streamlit as st
 import openai
 import time
 
-#openai.api_key = "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"
 
-openai.api_key ="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"
+openai.api_key ="your openAI API key"
 st.title("Study scheduler using ai ")
 
 age = st.number_input("Enter learner's age",min_value=6,max_value=80,step=1)
