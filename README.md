@@ -1,0 +1,1 @@
+# Genarative-AI-Study-Schedule-Planner
